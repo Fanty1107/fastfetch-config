@@ -12,8 +12,15 @@ Here is the updated look of my terminal with this configuration:
 
 
 ---
+## Install through .sh script
+```bash
+git clone https://github.com/Fanty1107/fastfetch-config.git
+cd fastfetch-config
+chmod +x install.sh
+./install.sh
+```
 
-## Install
+## Manual Install
 
 Make sure you have `curl` and `fastfetch` installed and i recomend use Nerd Fonts on your terminal emulator. Then, simply run the command below in your terminal to create the directory and download the configuration file directly:
 
